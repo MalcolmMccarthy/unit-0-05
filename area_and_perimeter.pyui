@@ -1,0 +1,69 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{231, 114}, {176, 49}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "perimeter_answer_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "128DC33D-12C4-4E38-96C7-9602522752A4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{260, 285}, {147, 67}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "answer_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Button",
+          "uuid" : "3447F81D-3C6F-4575-9560-6B37134B44EB",
+          "class" : "Button",
+          "name" : "answer",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{224, 192}, {183, 48}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "6D018A21-C82F-4B03-A554-BF82165A3CA7",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "area_answer_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
